@@ -1,0 +1,276 @@
+.navbar a {
+    color: #727a77 !important;
+    font-weight: bolder !important;
+}
+
+.container .navbar-brand {
+    font-size: 35px !important;
+    font-weight: 950 !important;
+    color: black !important;
+}
+
+nav {
+    box-shadow: none !important;
+    z-index: 6px;
+    background: white;
+    width: 100vw;
+    padding: 0px !important;
+}
+
+.container .navbar-nav a .nav-link {
+    color: #c0cec9 !important;
+}
+
+.main {}
+
+h4,
+h2 {
+    font-family: 'Poppins';
+    font-weight: 950 !important;
+}
+
+h3 {
+    font-family: 'Poppins';
+    color: #818b88 !important;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+p {
+    color: #9ea8a5 !important;
+}
+
+img {
+    width: 426px;
+    height: 547px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+.degradeBtn {
+    background: rgb(2, 247, 153);
+    font-weight: bold !important;
+    font-family: "poppins";
+    background: -webkit-linear-gradient(to right, rgba(121, 223, 184, 0.651), #34d115);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #5bf8d6, #70f381);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.border-container {
+    border-radius: 20px !important;
+}
+
+.main col-md-7 {
+    background: white !important;
+    height: 547px !important;
+}
+
+.main col-md-8 {
+    z-index: 3;
+    background: white !important;
+}
+
+footer {
+    background: #303e40;
+}
+
+footer img {
+    width: 320px !important;
+    height: 52px !important;
+}
+
+footer h2 {
+    font-family: "Patua One";
+    font-size: 24px;
+    color: #fff;
+    margin-left: 32px;
+}
+
+footer ul li {
+    list-style: none;
+}
+
+.big-line {
+    height: 5px;
+    width: 100%;
+    background: #fff;
+}
+
+hr {
+    color: #fff;
+    background: #fff;
+}
+
+footer .container h4,
+footer .container p {
+    color: white;
+}
+
+.item ul {}
+
+footer .container h4 {
+    font-weight: bolder;
+    font-family: "Patua One";
+    font-size: 25px;
+}
+
+body {
+    width: 100vw !important;
+    z-index: 2 !important;
+    overflow-x: hidden;
+}
+
+.rect {
+    background: #4F6467;
+    height: 300px !important;
+    transform: translateY(-550px);
+    z-index: 1 !important;
+    margin: 0;
+}
+
+.div-col {
+    margin-top: 100px !important;
+    background: white;
+    z-index: 5 !important;
+    position: relative;
+}
+
+.no-paddingMargin {
+    padding: 0px !important;
+    margin: 0px !important;
+}
+
+.bacgroudCol-2 {
+    background: white;
+    border-bottom-left-radius: 30px;
+    border-top-left-radius: 30px;
+}
+
+.bacgroudCol-1 {
+    background: #4F6467 !important;
+    height: 300px;
+}
+
+.div-col img {}
+
+.padd {
+    padding: 30px;
+}
+
+.col-md-7 {
+    box-shadow: 1px 1px 5px 0px rgb(0, 0, 0);
+}
+
+.foot {
+    height: 50px !important;
+    background: #72879e;
+    position: fixed;
+}
+
+.plus {
+    color: rgb(0, 255, 179);
+    font-size: 20px;
+    letter-spacing: 2px;
+    line-height: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    float: left;
+    bottom: -100px;
+    transform: translate(40px, -350px);
+}
+
+.plus-3 {
+    color: rgb(0, 255, 179);
+    font-size: 30px;
+    letter-spacing: 2px;
+    line-height: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    float: right;
+    bottom: -100px;
+    transform: translate(40px, 20px);
+}
+
+.div-col-01 .title {
+    font-weight: 950;
+    font-family: 'Poppins';
+}
+
+.title-3 {
+    font-weight: bold;
+}
+
+.noshadow {
+    box-shadow: none;
+}
+
+.noshadow img {
+    width: 100%;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    margin-bottom: 30px;
+}
+
+.container-1 h2 {
+    margin-top: 60px;
+    margin-bottom: 60px;
+    color: #303E40;
+}
+
+.container-1-row h2 {
+    margin-top: 60px;
+    margin-bottom: 30px;
+    color: #303E40;
+}
+
+.container-1-row h4 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: #303E40;
+}
+
+.plus-0 {
+    color: rgb(0, 255, 179);
+    font-size: 30px;
+    letter-spacing: 2px;
+    line-height: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    float: right;
+    transform: translate(0px, 200px);
+}
+
+.plus-left {
+    float: left;
+    transform: translate(0px, 100px);
+}
+
+.plus-paragraphe {
+    color: rgb(0, 255, 179) !important;
+    font-size: 30px;
+    letter-spacing: 2px;
+    line-height: 12px;
+    display: flex;
+    align-items: center;
+}
+
+.plus-paragraphe p {
+    color: rgb(0, 255, 179) !important;
+    z-index: 1;
+    transform: translate(-20px, 80px) !important;
+    position: relative !important;
+}
+
+.translate-img {
+    z-index: 3;
+}
+
+.row-img h5 {
+    font-weight: bold;
+    margin-top: 0px !important;
+    padding-top: 0px !important;
+}

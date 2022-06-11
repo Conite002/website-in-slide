@@ -1,0 +1,395 @@
+body {
+    z-index: 9 !important;
+}
+
+.logo {
+    font-weight: bold !important;
+    font-size: 40px !important;
+}
+
+body {
+    scrollbar-width: 1px !important;
+}
+
+.ctn-margin {
+    margin-left: 100px !important;
+    margin-right: 100px !important;
+}
+
+.ul_class {
+    font-weight: 400;
+}
+
+#ul {
+    color: white;
+    list-style: none;
+}
+
+.container-01 .rect {
+    margin-top: 135px;
+}
+
+.big_text {
+    color: white;
+    font-weight: bold;
+    font-size: 70px;
+}
+
+.h4-bigtext {
+    font-size: 2.5rem;
+    line-height: 3rem;
+    margin: 0 0 2rem;
+    font-weight: bold;
+    font-family: "Patua One";
+}
+
+body {}
+
+.image-body {
+    background: url("picture/179098_web.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100vh;
+}
+
+.rect {
+    width: 40px;
+    height: 40px;
+    justify-content: center;
+    justify-self: center;
+}
+
+.cercle {
+    background: -webkit-linear-gradient(to right, rgba(121, 223, 184, 0.651), #03E092);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #65DFBF, #03E092);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background-color: #65DFBF;
+}
+
+.cercle-1 {
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    transform: translate(2px);
+}
+
+.cercle-2 {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    transform: translateY(3px);
+}
+
+.cercle-3 {
+    width: 9px;
+    height: 9px;
+    border-radius: 50%;
+    transform: translate(20px, -15px);
+}
+
+
+/****** Page 02 ******/
+
+.page-2-ulC {
+    font-size: 20px;
+}
+
+.page-2-logo {
+    font-weight: bold !important;
+    font-size: 40px !important;
+}
+
+.page-2-p {
+    font-size: 20px;
+    color: rgba(80, 79, 82, 0.959);
+}
+
+.page-2-ul {
+    color: rgba(108, 106, 112, 0.959);
+}
+
+.page-2-bigtext {
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+
+.ctn1 {
+    background: rgb(233, 243, 238);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    border-radius: 30px !important;
+}
+
+.page-2-div_i {
+    transform: translateY(-50px);
+}
+
+.page-2-degradeBtn {
+    background: rgb(2, 247, 153) !important;
+    font-weight: bold !important;
+}
+
+.page-2-bg_black {
+    width: 400px;
+    height: 160px;
+    background: rgb(48, 47, 46);
+    border-radius: 10px;
+    border: 4px #fff solid;
+    /*transform: translate(0px,-100px);*/
+    opacity: 0.5;
+    font-family: 'Poppins';
+    z-index: 3;
+}
+
+.page-2-h5 {
+    font-weight: bold !important;
+}
+
+.page-2-bg_black {
+    transform: translate(0, -100px);
+}
+
+
+/******************************page-03   ******************************/
+
+.logo {
+    font-weight: bold !important;
+    font-size: 40px !important;
+}
+
+ul {
+    color: rgba(108, 106, 112, 0.959);
+}
+
+.bigtext {
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-family: 'Poppins';
+}
+
+.body {
+    font-family: 'Times New Roman', Times, serif;
+    background: rgb(255, 255, 255);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    border-radius: 30px !important;
+    height: 100vh;
+}
+
+.div_i {
+    transform: translateY(-50px);
+}
+
+.degradeBtn {
+    background: rgb(2, 247, 153);
+    font-weight: bold !important;
+    font-family: "poppins";
+    background: -webkit-linear-gradient(to right, rgba(121, 223, 184, 0.651), #34d115);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #5bf8d6, #70f381);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.bg_black {
+    width: 300px;
+    height: 150px;
+    background: rgb(48, 47, 46);
+    border-radius: 10px;
+    border: 4px #fff solid;
+    transform: translate(0px, -100px);
+    opacity: 0.5;
+    font-family: 'Poppins';
+    z-index: 3;
+}
+
+.h5 {
+    font-weight: bold !important;
+}
+
+
+/*span{
+      width: 20px;
+      height: 20px;
+      background: rgb(0, 255, 191);
+      
+  }*/
+
+.fw-bold {
+    font-weight: bold !important;
+    font-size: 1.3em;
+}
+
+.p_h6,
+.p_h7 {
+    margin: 0 0 10px;
+    line-height: 1.6;
+}
+
+.p_h6 p,
+.p_h7 p {
+    opacity: .5;
+}
+
+.plus {
+    color: rgb(0, 255, 179);
+    font-size: 20px;
+    letter-spacing: 2px;
+    line-height: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    float: right;
+    bottom: -100px;
+    transform: translate(410px, -150px);
+}
+
+.line {
+    z-index: 1 !important;
+}
+
+element.style {
+    transform: rotate(2deg);
+}
+
+.line-right {
+    transform: rotate(50deg);
+    transform: translate(-150px, -300px);
+    width: 250px;
+}
+
+.line-left {
+    transform: rotate(-10deg);
+    transform: translate(250px, -350px);
+    width: 200px;
+}
+
+
+/*************************** page 04 ***************************/
+
+.page-04 p {
+    opacity: .5 !important;
+}
+
+.page-04-container-fluid {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Times New Roman', Times, serif;
+    height: 80vh !important;
+}
+
+.page-04-col2 h1 {
+    font-weight: bold;
+    font-family: "poppins" !important;
+}
+
+.page-04-bg_black {
+    width: 300px;
+    height: 150px;
+    background: rgb(48, 47, 46);
+    border-radius: 10px;
+    border: 4px #fff solid;
+    transform: translate(200px, -480px);
+    opacity: 0.5;
+    font-family: 'Poppins';
+    z-index: 9;
+}
+
+.page-04-col1,
+.page-04-col2 {
+    margin-top: 100px;
+}
+
+.page-04-div_i {
+    transform: translate(20px) !important;
+}
+
+
+/******************* Page 5******************************/
+
+.page-05-img {
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    width: 170px;
+    height: 220px;
+}
+
+.page-05-span {
+    font-size: 65px;
+    font-weight: bold;
+    opacity: .5;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold !important;
+}
+
+.phrase1 {
+    opacity: .5;
+}
+
+.phrase2 {
+    font-weight: 400;
+}
+
+.gradient-custom {
+    background: #FFEEEE;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #DDEFBB, #FFEEEE);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #DDEFBB, #FFEEEE);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+footer {
+    background: #303e40;
+}
+
+footer img {
+    width: 320px !important;
+    height: 52px !important;
+}
+
+footer h2 {
+    font-family: "Patua One";
+    font-size: 24px;
+    color: #fff;
+    margin-left: 32px;
+}
+
+footer ul li {
+    list-style: none;
+}
+
+.big-line {
+    height: 5px;
+    width: 100%;
+    background: #fff;
+}
+
+hr {
+    color: #fff;
+    background: #fff;
+}
+
+footer .container h4,
+footer .container p {
+    color: white;
+}
+
+.item ul {}
+
+footer .container h4 {
+    font-weight: bolder;
+    font-family: "Patua One";
+    font-size: 25px;
+}
