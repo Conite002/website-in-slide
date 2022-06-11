@@ -1,3 +1,3 @@
 # website-in-slide
 
-# The site starts on page 01
+# double click to launch the index.html in your browser
